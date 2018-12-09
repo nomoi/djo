@@ -1,0 +1,25 @@
+{
+  "name": "djo",
+  "version": "1.0.0",
+  "description": "tutci lonu se bangu la .lojban.",
+  "main": "djo.js",
+  "scripts": {
+    "test": "npx mocha ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomoi/djo.git"
+  },
+  "keywords": [
+    "djo",
+    "lojban",
+    "tutci",
+    "jbotci"
+  ],
+  "author": "Salci Salci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomoi/djo/issues"
+  },
+  "homepage": "https://github.com/nomoi/djo#readme"
+}
